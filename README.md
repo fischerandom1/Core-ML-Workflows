@@ -153,4 +153,3 @@ All transformations are implemented within **Scikit-Learn Pipelines** to ensure 
   * Final model evaluations
 
 ---
-* Or a **visually enhanced GitHub README with badges and structure polish**
